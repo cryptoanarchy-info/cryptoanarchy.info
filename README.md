@@ -7,6 +7,7 @@ Project is currently in collection phase, after the list of resources is somewha
 - [Vonu - The search for personal freedom by Rayo](https://ad-store.sgp1.digitaloceanspaces.com/LUA/Documents/VONU%20-%20The%20Search%20for%20Personal%20Freedom%20by%20Rayo.pdf)
 - [Vonue: The search for personal freedom, part 2 - Letters from Rayo](https://ad-store.sgp1.digitaloceanspaces.com/VONU/2022/08/Vonu%202%20Paperback%20Interior%20Final.pdf)
 - [Cryptoeconomics - Eric Voskuil](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf)
+- [Second Realm - Book on strategy](https://archive.org/details/second-realm-digital)
 
 ## Web 
 - [agorism.dev](https://agorism.dev/) - Amir Taaki's website
@@ -18,7 +19,9 @@ Project is currently in collection phase, after the list of resources is somewha
 - [The Untold story of the greatest crypto project ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
   - [links to the blog posts](https://disobey.dev/the-untold-story-of-the-greatest-crypto-project-ever/)
 - [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - cypherpunk mailing list archives and lots of other historical material
-
+- [Free Man's Perspective](https://freemansperspective.com/) - Paul Rosenberg's newsletter
+- [Towards Liberty](https://web.archive.org/web/20200627112945/http://towardsliberty.com/) - Max Hillebrand's website
+- 
 
 ## Contributing
 
