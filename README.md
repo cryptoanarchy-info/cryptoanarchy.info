@@ -8,7 +8,10 @@ Project is currently in collection phase, after the list of resources is somewha
 - [Cryptoeconomics - Eric Voskuil](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf)
 - [Second Realm - Book on strategy](https://archive.org/details/second-realm-digital)
 - [New Libertarian Manifesto](https://web.archive.org/web/20191217015919/http://agorism.info/docs/NewLibertarianManifesto.pdf) - by Samuel Edward Konkin III
-- 
+
+## Papers
+- [Anarchy, State and the Internet](https://web.archive.org/web/2/https://www.researchgate.net/publication/228222872_Anarchy_State_and_the_Internet)
+
 
 ## Web 
 - [The Crypto Anarchist Manifesto](https://web.archive.org/web/20200108183836/http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
@@ -25,6 +28,7 @@ Project is currently in collection phase, after the list of resources is somewha
 - [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - cypherpunk mailing list archives and lots of other historical material
 - [Free Man's Perspective](https://freemansperspective.com/) - Paul Rosenberg's newsletter
 - [Towards Liberty](https://web.archive.org/web/20200627112945/http://towardsliberty.com/) - Max Hillebrand's website
+- [A Declaration of the Independence of Cyberspace](https://web.archive.org/web/20200120011613/https://www.eff.org/cyberspace-independence)
 - 
 
 ## Contributing
