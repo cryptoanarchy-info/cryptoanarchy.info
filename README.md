@@ -1,3 +1,5 @@
+Goal of this project is to preserve history and distribute important works and information about crypto anarchy.
+
 Project is currently in collection phase, after the list of resources is somewhat finalized it will be made available through various channels. 
 
 
@@ -20,4 +22,4 @@ Project is currently in collection phase, after the list of resources is somewha
 
 ## Contributing
 
-If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/cryptoanarchy-info/cryptoanarchy-archive).
+If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/cryptoanarchy-info/cryptoanarchy-archive) or open an issue.
