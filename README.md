@@ -12,3 +12,5 @@
 - [Taz 0](https://taz0.sirion.io/) - cypherpunk bitstream archive site
 - [Free Haven Project](https://www.freehaven.net/) - free haven project
 - [Activism.net](https://activism.net/) 
+- [The Untold story of the greatest crypto project ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
+  - [links to the blog posts](https://disobey.dev/the-untold-story-of-the-greatest-crypto-project-ever/)
