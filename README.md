@@ -29,7 +29,6 @@ Project is currently in collection phase, after the list of resources is somewha
 - [Free Man's Perspective](https://freemansperspective.com/) - Paul Rosenberg's newsletter
 - [Towards Liberty](https://web.archive.org/web/20200627112945/http://towardsliberty.com/) - Max Hillebrand's website
 - [A Declaration of the Independence of Cyberspace](https://web.archive.org/web/20200120011613/https://www.eff.org/cyberspace-independence)
-- 
 
 ## Contributing
 
