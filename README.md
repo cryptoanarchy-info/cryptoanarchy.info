@@ -13,3 +13,8 @@
 - [The Untold story of the greatest crypto project ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
   - [links to the blog posts](https://disobey.dev/the-untold-story-of-the-greatest-crypto-project-ever/)
 - [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - cypherpunk mailing list archives and lots of other historical material
+
+
+## Contributing
+
+If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/cryptoanarchy-info/cryptoanarchy-archive).
