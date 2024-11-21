@@ -14,3 +14,4 @@
 - [Activism.net](https://activism.net/) 
 - [The Untold story of the greatest crypto project ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
   - [links to the blog posts](https://disobey.dev/the-untold-story-of-the-greatest-crypto-project-ever/)
+- [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - cypherpunk mailing list archives and lots of other historical material
