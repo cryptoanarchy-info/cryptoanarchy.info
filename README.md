@@ -1,5 +1,3 @@
-# Cryptoanarchy.info 
-
 ## Books
 - [Vonu - The search for personal freedom by Rayo](https://ad-store.sgp1.digitaloceanspaces.com/LUA/Documents/VONU%20-%20The%20Search%20for%20Personal%20Freedom%20by%20Rayo.pdf)
 - [Vonue: The search for personal freedom, part 2 - Letters from Rayo](https://ad-store.sgp1.digitaloceanspaces.com/VONU/2022/08/Vonu%202%20Paperback%20Interior%20Final.pdf)
