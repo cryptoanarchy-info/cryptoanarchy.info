@@ -19,8 +19,8 @@ Project is currently in collection phase, after the list of resources is somewha
 - [Cyphernomicon](https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt)
 - [Cypherpunk Manifesto](https://web.archive.org/web/20200118132145/https://www.activism.net/cypherpunk/manifesto.html)
 - [agorism.dev](https://agorism.dev/) - Amir Taaki's website
-- [anarplex.net](https://anarplex.sirion.io/) - archive of anarplex.net
-  - [anarplex.net alternative mirror](https://anarplex.cypherpunk.wtf/)
+- [anarplex.sirion.io](https://anarplex.sirion.io/) - archive of anarplex.net
+  - [anarplex.cypherpunk.wtf](https://anarplex.cypherpunk.wtf/) - another anarplex.net mirror
 - [Taz 0](https://taz0.sirion.io/) - cypherpunk bitstream archive site
 - [Free Haven Project](https://www.freehaven.net/) - free haven project
 - [Activism.net](https://activism.net/) 
