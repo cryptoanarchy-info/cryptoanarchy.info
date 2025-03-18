@@ -1,7 +1,6 @@
 "The combination of strong, unbreakable public key cryptography and virtual network communities in cyberspace will produce interesting and profound changes in the nature of economic and social systems. Crypto anarchy is the cyberspatial realization of anarcho-capitalism, transcending national boundaries and freeing individuals to make the economic arrangements they wish to make consensually." - [Timothy C. May
 ](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-virtual-comm.html)
 
-### cryptoanarchy.info
 Goal of this project is to preserve history and distribute important works and information about crypto anarchy.
 Project is currently in collection phase, after the list of resources is somewhat finalized it will be made available through various channels. 
 
