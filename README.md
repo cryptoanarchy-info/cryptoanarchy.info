@@ -12,6 +12,7 @@ Project is currently in collection phase, after the list of resources is somewha
 - [New Libertarian Manifesto](https://web.archive.org/web/20191217015919/http://agorism.info/docs/NewLibertarianManifesto.pdf) - by Samuel Edward Konkin III
 - [Anarchy, State and the Internet](https://web.archive.org/web/2/https://www.researchgate.net/publication/228222872_Anarchy_State_and_the_Internet)
 - [The Anarchist Library](https://theanarchistlibrary.org)
+- [Cryptosovereignity - Eric Cason](https://store.bitcoinmagazine.com/products/cryptosovereignty)
 
 ## Web 
 - [The Crypto Anarchist Manifesto](https://web.archive.org/web/20200108183836/http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
