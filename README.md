@@ -13,6 +13,7 @@ Project is currently in collection phase, after the list of resources is somewha
 - [Anarchy, State and the Internet](https://web.archive.org/web/2/https://www.researchgate.net/publication/228222872_Anarchy_State_and_the_Internet)
 - [The Anarchist Library](https://theanarchistlibrary.org)
 - [Cryptosovereignity - Eric Cason](https://store.bitcoinmagazine.com/products/cryptosovereignty)
+- [The Praxeology of Privacy - Max Hillebrand](https://pay.towardsliberty.com/apps/v5yU4xADsJJjxF3foYPDPFd1Snj/pos) 
 
 ## Web 
 - [The Crypto Anarchist Manifesto](https://web.archive.org/web/20200108183836/http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
