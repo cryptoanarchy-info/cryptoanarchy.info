@@ -14,15 +14,10 @@ Goal of this project is to preserve history and distribute important works and i
 - [Archives & Historical Collections](#archives--historical-collections)
 - [Academic Papers](#academic-papers)
 - [Books](#books)
-- [Privacy Tools](#privacy-tools)
-- [Cryptocurrency Tools & Projects](#cryptocurrency-tools--projects)
-- [Protocols & Infrastructure](#protocols--infrastructure)
 - [Organizations & Institutions](#organizations--institutions)
 - [Websites, Blogs & Communities](#websites-blogs--communities)
 - [Guides & Documentation](#guides--documentation)
 - [Media & Documentaries](#media--documentaries)
-- [Conferences & Events](#conferences--events)
-- [Research Repositories](#research-repositories)
 
 ---
 
