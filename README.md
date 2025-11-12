@@ -172,10 +172,6 @@ Goal of this project is to preserve history and distribute important works and i
 - [Gradually Then Suddenly](https://nakamotoinstitute.org/mempool/series/gradually-then-suddenly/) - Parker Lewis essay series on Bitcoin (2019-2020)
 - [Mises Wire](https://mises.org/wire) - Austrian economics daily articles
 - [Agorism Blog](https://agorism.blog/) - Crypto agorism resources and essays
-
-### Community Forums
-- [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - Reddit community for cryptocurrency discussion (8.7M+ members)
-- [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) - Reddit Bitcoin community
 - [Agorist Nexus](https://agoristnexus.com/) - Community building for agorists
 
 ### Publications
