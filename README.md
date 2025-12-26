@@ -182,7 +182,7 @@ Goal of this project is to preserve history and distribute important works and i
 
 ### Historical Resources
 - [The Untold Story of the Greatest Crypto Project Ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
-  - [Links to blog posts](https://disobey.dev/the-untold-story-of-the-greatest-crypto-project-ever/)
+  - [Links to blog posts](https://disobey.dev/posts/the-untold-story-of-the-greatest-crypto-project-ever/)
 
 ---
 
