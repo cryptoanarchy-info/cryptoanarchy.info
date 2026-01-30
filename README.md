@@ -74,6 +74,7 @@ Goal of this project is to preserve history and distribute important works and i
 ## Academic Papers
 
 ### Foundational Cryptography
+- [Curated Cryptology Compendium](https://cryptosystemsjournal.com/curated-cryptology-compendium.html) - A curated, exhaustive collection of foundational, historical, and declassified materials
 - [New Directions in Cryptography](https://nakamotoinstitute.org/library/new-directions-in-cryptography/) - Diffie-Hellman foundational public-key cryptography paper (1976)
 - [RSA Paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf) - Rivest, Shamir, Adleman public-key cryptosystem (1978)
 - [Protocols for Public Key Cryptosystems](https://nakamotoinstitute.org/library/public-key-cryptosystems/) - Ralph Merkle's Merkle trees and key distribution (1978)
