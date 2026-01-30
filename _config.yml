@@ -4,3 +4,5 @@ plugins:
 
 show_downloads: false
 google_analytics: G-CLB7CSRLS5
+plausible_script_url: https://analytics.cypherpunk.cloud/js/script.js
+plausible: cryptoanarchy.info
