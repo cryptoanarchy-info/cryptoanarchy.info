@@ -35,6 +35,7 @@ Goal of this project is to preserve history and distribute important works and i
 
 ### Other Foundational Essays
 - [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Phil Zimmermann's explanation of PGP motivation (1991-1999)
+- [The Blacknet Manifesto](https://web.archive.org/web/20250405004819/https://www.activism.net/cypherpunk/blacknet.html) - Timothy C. May's prescient vision of anonymous digital markets (1994)
 
 ---
 
@@ -111,8 +112,10 @@ Goal of this project is to preserve history and distribute important works and i
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Nick Szabo's anthropological money analysis (2002)
 
 ### Anonymity Networks
-- [Tor Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) - Technical paper describing Tor architecture (2004)
-- [Measuring Freenet in the Wild](https://link.springer.com/chapter/10.1007/978-3-319-08506-7_14) - Empirical analysis of Freenet censorship-resistance (2014)
+|- [Tor Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) - Technical paper describing Tor architecture (2004)
+|- [Measuring Freenet in the Wild](https://link.springer.com/chapter/10.1007/978-3-319-08506-7_14) - Empirical analysis of Freenet censorship-resistance (2014)
+|- [On the Tight Security of the Double Ratchet](https://eprint.iacr.org/2024/1625) - Formal security proof for Signal's Double Ratchet protocol (CCS 2024)
+|- [Signal SPQR: Sparse Post-Quantum Ratchet](https://signal.org/blog/spqr/) - Signal's post-quantum cryptographic ratchet design (2024)
 
 ---
 
@@ -126,9 +129,14 @@ Goal of this project is to preserve history and distribute important works and i
 - [Alongside Night](https://en.wikipedia.org/wiki/Alongside_Night) - J. Neil Schulman's agorist novel (1989 Prometheus Hall of Fame) (1979)
 
 ### Cypherpunk & Crypto Anarchy
-- [Cypherpunks: Freedom and the Future of the Internet](https://archive.org/details/cypherpunksfreed0000assa) - Julian Assange with Appelbaum, Müller-Maguhn and Zimmermann (2012)
-- [The Official PGP User's Guide](https://www.goodreads.com/book/show/2152126.The_Official_PGP_User_s_Guide) - Phil Zimmermann (1995)
-- [Crypto Anarchy, Cyberstates and Pirate Utopias](https://mitpress.mit.edu/) - Peter Ludlow's anthology including Timothy May's work (2001)
+|- [Cypherpunks: Freedom and the Future of the Internet](https://archive.org/details/cypherpunksfreed0000assa) - Julian Assange with Appelbaum, Müller-Maguhn and Zimmermann (2012)
+|- [The Official PGP User's Guide](https://www.goodreads.com/book/show/2152126.The_Official_PGP_User_s_Guide) - Phil Zimmermann (1995)
+|- [Crypto Anarchy, Cyberstates and Pirate Utopias](https://mitpress.mit.edu/) - Peter Ludlow's anthology including Timothy May's work (2001)
+
+### Surveillance & Privacy
+|- [Your Face Belongs to Us](https://www.amazon.com/Your-Face-Belongs-Us-Surveillance/dp/0593535935) - Kashmir Hill's investigation into the rise of facial recognition surveillance (2023)
+|- [Means of Control](https://www.penguinrandomhouse.com/books/694790/means-of-control-by-byron-tau/) - Byron Tau on the hidden alliance between tech companies and government surveillance (2024)
+|- [Data Cartels](https://www.sup.org/books/title/?id=32780) - Sarah Lamdan on the companies that monopolize and sell our information (2023)
 
 ### Cryptocurrency & Economics
 - [Cryptoeconomics](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf) - Eric Voskuil's comprehensive cryptoeconomics text
@@ -203,8 +211,21 @@ Goal of this project is to preserve history and distribute important works and i
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/) - Explanation of zero-knowledge proofs in Zcash
 
 ### Practical Guides
-- [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
-- [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
+|- [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
+|- [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
 
+---
 
-If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/cryptoanarchy-info/cryptoanarchy-archive) or [contact me](https://disobey.dev/contact/).
+## Media & Documentaries
+
+### Feature Documentaries
+|- [The Six Billion Dollar Man](https://en.wikipedia.org/wiki/The_Six_Billion_Dollar_Man_(film)) - Eugene Jarecki's documentary on Julian Assange, won L'Œil d'or at Cannes 2025
+|- [The Trust Fall: Julian Assange](https://thetrustfall.org/) - Documentary on the Assange case and press freedom implications
+|- [Everyone Is Lying to You for Money](https://www.imdb.com/title/tt32961860/) - Ben McKenzie's documentary investigating crypto industry deception (2025)
+
+### Short Films & Talks
+|- [Julian Assange and the dark secrets of war](https://www.youtube.com/watch?v=lRNq4JGi2eM) - DW Documentary on Assange and WikiLeaks (June 2024)
+
+### Academic Proceedings
+|- [IEEE S&P 2024](https://sp2024.ieee-security.org/accepted-papers.html) - Top-tier security & privacy conference proceedings
+|- [PoPETs 2024](https://petsymposium.org/popets/2024/) - Privacy Enhancing Technologies Symposium proceedings
