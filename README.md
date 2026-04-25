@@ -216,6 +216,49 @@ Goal of this project is to preserve history and distribute important works and i
 
 ---
 
+
+## Privacy & Security Tools
+
+### Web Servers & Networking
+- [Caddy](https://github.com/caddyserver/caddy) - Powerful, enterprise-ready, open source web server with automatic HTTPS ![stars](https://img.shields.io/github/stars/caddyserver/caddy.svg?style=social)
+- [AdGuardHome](https://github.com/adguardteam/AdGuardHome) - Network-wide DNS ad blocker with parental controls ![stars](https://img.shields.io/github/stars/adguardteam/AdGuardHome.svg?style=social)
+- [SearXNG](https://github.com/searxng/searxng) - Privacy-respecting metasearch engine ![stars](https://img.shields.io/github/stars/searxng/searxng.svg?style=social)
+
+### Password Managers
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven password manager ![stars](https://img.shields.io/github/stars/keepassxreboot/keepassxc.svg?style=social)
+
+### Browsers
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chromium without Google integration and with privacy extensions ![stars](https://img.shields.io/github/stars/ungoogled-software/ungoogled-chromium.svg?style=social)
+
+### Encrypted Cloud & Storage
+- [ente](https://github.com/ente-io/ente) - End-to-end encrypted cloud storage for photos and files ![stars](https://img.shields.io/github/stars/ente-io/ente.svg?style=social)
+- [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent encryption for cloud files ![stars](https://img.shields.io/github/stars/cryptomator/cryptomator.svg?style=social)
+
+### Encryption Tools
+- [age](https://github.com/filosottile/age) - Simple, modern, secure encryption tool ![stars](https://img.shields.io/github/stars/filosottile/age.svg?style=social)
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption software for strong privacy protection ![stars](https://img.shields.io/github/stars/veracrypt/VeraCrypt.svg?style=social)
+
+### Privacy-Focused YouTube
+- [FreeTube](https://github.com/FreeTubeApp/FreeTube) - YouTube client for desktop with privacy features ![stars](https://img.shields.io/github/stars/FreeTubeApp/FreeTube.svg?style=social)
+
+### Privacy Resource Lists
+- [awesome-privacy](https://github.com/pluja/awesome-privacy) - Curated list of privacy-focused software and services ![stars](https://img.shields.io/github/stars/pluja/awesome-privacy.svg?style=social)
+
+### Backup Tools
+- [Borg](https://github.com/borgbackup/borg) - Deduplicating backup program with encryption support ![stars](https://img.shields.io/github/stars/borgbackup/borg.svg?style=social)
+- [Kopia](https://github.com/kopia/kopia) - Fast and secure backup software with encryption ![stars](https://img.shields.io/github/stars/kopia/kopia.svg?style=social)
+
+### Bitcoin Wallets & Privacy
+- [Wasabi Wallet](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy-focused Bitcoin wallet ![stars](https://img.shields.io/github/stars/WalletWasabi/WalletWasabi.svg?style=social)
+- [Sparrow Wallet](https://github.com/sparrowwallet/sparrow) - Bitcoin wallet focused on privacy and security ![stars](https://img.shields.io/github/stars/sparrowwallet/sparrow.svg?style=social)
+- [Neutrino](https://github.com/lightninglabs/neutrino) - Bitcoin light client with SPV privacy ![stars](https://img.shields.io/github/stars/lightninglabs/neutrino.svg?style=social)
+- [web3privacy](https://github.com/web3privacy/web3privacy) - Privacy research and tools for Web3 ![stars](https://img.shields.io/github/stars/web3privacy/web3privacy.svg?style=social)
+- [cyphernet.rs](https://github.com/cyphernet-labs/cyphernet.rs) - Rust networking with cryptography focus ![stars](https://img.shields.io/github/stars/cyphernet-labs/cyphernet.rs.svg?style=social)
+- [Coz](https://github.com/cyphrme/Coz) - JSON crypto specification and implementations ![stars](https://img.shields.io/github/stars/cyphrme/Coz.svg?style=social)
+- [yantr](https://github.com/besoeasy/yantr) - Bitcoin node focused on privacy ![stars](https://img.shields.io/github/stars/besoeasy/yantr.svg?style=social)
+- [Bitcoin Keeper](https://github.com/keepercommunity/bitcoin-keeper) - Bitcoin wallet with multi-key security ![stars](https://img.shields.io/github/stars/keepercommunity/bitcoin-keeper.svg?style=social)
+
+
 ## Media & Documentaries
 
 ### Feature Documentaries
