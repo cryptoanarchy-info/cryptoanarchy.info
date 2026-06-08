@@ -211,21 +211,20 @@ Goal of this project is to preserve history and distribute important works and i
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/) - Explanation of zero-knowledge proofs in Zcash
 
 ### Practical Guides
-|- [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
-|- [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
+- [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
+- [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
 
 ---
 
 ## Media & Documentaries
 
 ### Feature Documentaries
-|- [The Six Billion Dollar Man](https://en.wikipedia.org/wiki/The_Six_Billion_Dollar_Man_(film)) - Eugene Jarecki's documentary on Julian Assange, won L'Œil d'or at Cannes 2025
-|- [The Trust Fall: Julian Assange](https://thetrustfall.org/) - Documentary on the Assange case and press freedom implications
-|- [Everyone Is Lying to You for Money](https://www.imdb.com/title/tt32961860/) - Ben McKenzie's documentary investigating crypto industry deception (2025)
+- [The Six Billion Dollar Man](https://en.wikipedia.org/wiki/The_Six_Billion_Dollar_Man_(film)) - Eugene Jarecki's documentary on Julian Assange
+- [The Trust Fall: Julian Assange](https://thetrustfall.org/) - Documentary on the Assange case and press freedom implications
 
 ### Short Films & Talks
-|- [Julian Assange and the dark secrets of war](https://www.youtube.com/watch?v=lRNq4JGi2eM) - DW Documentary on Assange and WikiLeaks (June 2024)
+- [Julian Assange and the dark secrets of war](https://www.youtube.com/watch?v=lRNq4JGi2eM) - DW Documentary on Assange and WikiLeaks (June 2024)
 
 ### Academic Proceedings
-|- [IEEE S&P 2024](https://sp2024.ieee-security.org/accepted-papers.html) - Top-tier security & privacy conference proceedings
-|- [PoPETs 2024](https://petsymposium.org/popets/2024/) - Privacy Enhancing Technologies Symposium proceedings
+- [IEEE S&P 2024](https://sp2024.ieee-security.org/accepted-papers.html) - Top-tier security & privacy conference proceedings
+- [PoPETs 2024](https://petsymposium.org/popets/2024/) - Privacy Enhancing Technologies Symposium proceedings
