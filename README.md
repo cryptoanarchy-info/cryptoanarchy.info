@@ -112,10 +112,10 @@ Goal of this project is to preserve history and distribute important works and i
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Nick Szabo's anthropological money analysis (2002)
 
 ### Anonymity Networks
-|- [Tor Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) - Technical paper describing Tor architecture (2004)
-|- [Measuring Freenet in the Wild](https://link.springer.com/chapter/10.1007/978-3-319-08506-7_14) - Empirical analysis of Freenet censorship-resistance (2014)
-|- [On the Tight Security of the Double Ratchet](https://eprint.iacr.org/2024/1625) - Formal security proof for Signal's Double Ratchet protocol (CCS 2024)
-|- [Signal SPQR: Sparse Post-Quantum Ratchet](https://signal.org/blog/spqr/) - Signal's post-quantum cryptographic ratchet design (2024)
+- [Tor Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) - Technical paper describing Tor architecture (2004)
+- [Measuring Freenet in the Wild](https://link.springer.com/chapter/10.1007/978-3-319-08506-7_14) - Empirical analysis of Freenet censorship-resistance (2014)
+- [On the Tight Security of the Double Ratchet](https://eprint.iacr.org/2024/1625) - Formal security proof for Signal's Double Ratchet protocol (CCS 2024)
+- [Signal SPQR: Sparse Post-Quantum Ratchet](https://signal.org/blog/spqr/) - Signal's post-quantum cryptographic ratchet design (2024)
 
 ---
 
