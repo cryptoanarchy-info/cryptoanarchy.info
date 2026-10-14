@@ -6,6 +6,16 @@
 
 Goal of this project is to preserve history and distribute important works and information about crypto anarchy.
 
+## What is crypto anarchy?
+
+"Crypto anarchy" is the political and technical project of using cryptography and decentralized networks to make state control of individuals impossible at the protocol level. Coined in [Timothy C. May's *Crypto Anarchist Manifesto*](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) (1988), it builds on earlier cypherpunk ideas: strong public-key cryptography, pseudonymous digital cash, and untraceable communication. Modern bitcoin, Tor, and zero-knowledge proofs are direct descendants.
+
+## Where to start
+
+Read three things, in this order: the [Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html), the [Cypherpunk Manifesto](https://web.archive.org/web/20200118132145/https://www.activism.net/cypherpunk/manifesto.html), and the [Cyphernomicon](https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt). Then browse the [cypherpunks mailing list archive](https://cypherpunks.venona.com) for the raw conversation that shaped the movement. For the technical foundations, start with ["New Directions in Cryptography"](https://nakamotoinstitute.org/library/new-directions-in-cryptography/) (Diffie-Hellman, 1976) and [the original PGP docs](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html).
+
+This archive preserves the primary sources — manifestos, mailing-list archives, foundational papers, books, and ongoing projects — that document the movement's intellectual lineage and technical toolkit.
+
 ---
 
 ## Table of Contents
