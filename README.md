@@ -32,26 +32,32 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 ---
 
 ## Foundational Texts
+_Last verified: 2026-10-14._
 
 ### Manifestos & Core Documents
+_Last verified: 2026-10-14._
 - [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) - Timothy C. May's foundational crypto anarchist manifesto (1988)
 - [Cypherpunk Manifesto](https://web.archive.org/web/20200118132145/https://www.activism.net/cypherpunk/manifesto.html) - Eric Hughes (1993)
 - [Cyphernomicon](https://cdn.nakamotoinstitute.org/docs/cyphernomicon.txt) - 600-page FAQ covering cryptography and crypto anarchist philosophy by Timothy C. May (1994)
 - [A Declaration of the Independence of Cyberspace](https://web.archive.org/web/20200120011613/https://www.eff.org/cyberspace-independence) - John Perry Barlow (1996)
 
 ### Essays by Timothy C. May
+_Last verified: 2026-10-14._
 - [Libertaria in Cyberspace](https://nakamotoinstitute.org/library/libertaria-in-cyberspace/) - Early vision for crypto-anarchist systems (September 1992)
 - [Crypto Anarchy and Virtual Communities](https://nakamotoinstitute.org/library/virtual-communities/) - Essay on crypto anarchist vision (December 1994)
 
 ### Other Foundational Essays
+_Last verified: 2026-10-14._
 - [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Phil Zimmermann's explanation of PGP motivation (1991-1999)
 - [The Blacknet Manifesto](https://web.archive.org/web/20250405004819/https://www.activism.net/cypherpunk/blacknet.html) - Timothy C. May's prescient vision of anonymous digital markets (1994)
 
 ---
 
 ## Archives & Historical Collections
+_Last verified: 2026-10-14._
 
 ### Cypherpunks Mailing Lists
+_Last verified: 2026-10-14._
 - [Cypherpunks Mailing List (Active)](https://lists.cpunks.org) - Active cypherpunks mailing list relaunched in 2013
 - [Cypherpunks Mailing List Archive (Venona)](https://cypherpunks.venona.com) - Most complete 1992-2000 cypherpunks mailing list archive
 - [Cypherpunks Mailing List Archive (cryptoanarchy.wiki)](https://mailing-list-archive.cryptoanarchy.wiki/) - Searchable interface with 98,807 parsed emails (1992-2025)
@@ -59,6 +65,7 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [Cypherpunks Mailing List Zenodo Dataset](https://zenodo.org/records/7924881) - Merged dataset 1992-2023 with 256,795 emails
 
 ### Literature & Document Archives
+_Last verified: 2026-10-14._
 - [Satoshi Nakamoto Institute Library](https://nakamotoinstitute.org/library/) - Most comprehensive collection of crypto anarchist literature
 - [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - Comprehensive cypherpunk resources and mailing list archives
 - [The Anarchist Library](https://theanarchistlibrary.org) - Extensive collection of anarchist texts
@@ -67,15 +74,18 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [Taz 0](https://taz0.sirion.io/) - Cypherpunk bitstream archive site
 
 ### Agorist Archives
+_Last verified: 2026-10-14._
 - [SEK3 Collected Writings](https://www.sek3.net/) - Comprehensive collection of Samuel Edward Konkin III's works
 - [The Agorist Archives](https://archives.kopubco.com/) - Digitization project for SEK3's articles and papers (2021-present)
 
 ### Conference & Event Archives
+_Last verified: 2026-10-14._
 - [InfoCon.org Conference Archive](https://infocon.org/) - Ultimate archive of 200+ hacker/privacy conferences (1993-present)
 - [DEF CON Media Server](https://media.defcon.org/) - Complete DEF CON archives 1993-2025
 - [CCC Media Archive](https://media.ccc.de/) - Chaos Computer Club event archives (1984-present)
 
 ### Historical Crypto Wars
+_Last verified: 2026-10-14._
 - [Clipper Chip History](https://archive.epic.org/crypto/clipper/) - Historical archive of Clipper Chip controversy (1993-1996)
 - [Crypto Wars Documentation](https://www.schneier.com/blog/archives/2015/06/history_of_the_.html) - Bruce Schneier on First Crypto War history (1990s)
 - [PGP Timeline](http://www.cypherspace.org/adam/timeline/) - Comprehensive PGP development timeline (1991-present)
@@ -83,8 +93,10 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 ---
 
 ## Academic Papers
+_Last verified: 2026-10-14._
 
 ### Foundational Cryptography
+_Last verified: 2026-10-14._
 - [Curated Cryptology Compendium](https://cryptosystemsjournal.com/curated-cryptology-compendium.html) - A curated, exhaustive collection of foundational, historical, and declassified materials
 - [New Directions in Cryptography](https://nakamotoinstitute.org/library/new-directions-in-cryptography/) - Diffie-Hellman foundational public-key cryptography paper (1976)
 - [RSA Paper](https://people.csail.mit.edu/rivest/Rsapaper.pdf) - Rivest, Shamir, Adleman public-key cryptosystem (1978)
@@ -92,29 +104,35 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [How to Share a Secret](https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf) - Adi Shamir's secret sharing scheme (1979)
 
 ### David Chaum's Foundational Work
+_Last verified: 2026-10-14._
 - [Untraceable Electronic Mail](http://www.freehaven.net/anonbib/cache/chaum-mix.pdf) - Introduction to mix networks (1981)
 - [Blind Signatures for Untraceable Payments](https://link.springer.com/chapter/10.1007/978-1-4757-0602-4_18) - Cryptographic primitive for anonymous payments (1982-1983)
 - [Security without Identification](https://chaum.com/security-without-identification/) - Foundational paper on anonymous digital cash (October 1985)
 - [The Dining Cryptographers Problem](https://nakamotoinstitute.org/library/dining-cryptographers-problem/) - Anonymous communication protocol (1988)
 
 ### Distributed Systems & Consensus
+_Last verified: 2026-10-14._
 - [The Byzantine Generals Problem](https://lamport.azurewebsites.net/pubs/byz.pdf) - Lamport, Shostak, Pease consensus algorithm (1982)
 
 ### Zero-Knowledge Proofs
+_Last verified: 2026-10-14._
 - [Knowledge Complexity of Interactive Proof-Systems](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Proof%20Systems/The_Knowledge_Complexity_Of_Interactive_Proof_Systems.pdf) - Goldwasser, Micali, Rackoff zero-knowledge proofs (1985)
 - [A Survey on Applications of Zero-Knowledge Proofs](https://arxiv.org/abs/2408.00243) - Comprehensive ZKP survey (2024)
 
 ### Proof of Work & Timestamping
+_Last verified: 2026-10-14._
 - [How to Time-Stamp a Digital Document](https://link.springer.com/article/10.1007/BF00196791) - Haber, Stornetta cryptographic timestamping (1991)
 - [Pricing via Processing](https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf) - Naor, Dwork proof-of-work concept (1993)
 - [Hashcash](http://www.hashcash.org/) - Adam Back's proof-of-work system used in Bitcoin (1997-2002)
 
 ### Bitcoin Precursors
+_Last verified: 2026-10-14._
 - [b-money](https://nakamotoinstitute.org/library/b-money/) - Wei Dai's proposal for decentralized digital currency (1998)
 - [Bit Gold Proposal](https://nakamotoinstitute.org/) - Nick Szabo's Bitcoin precursor using proof-of-work (1998-2005)
 - [RPOW - Reusable Proofs of Work](https://nakamotoinstitute.org/finney/rpow/) - Hal Finney's reusable proof-of-work implementation (2004)
 
 ### Smart Contracts (Nick Szabo)
+_Last verified: 2026-10-14._
 - [Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html) - Introduction to smart contracts (1994)
 - [Smart Contracts: Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html) - Exploration of smart contracts for digital markets (1996)
 - [The Idea of Smart Contracts](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html) - Conceptual framework for smart contracts (1997)
@@ -122,6 +140,7 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [Shelling Out: The Origins of Money](https://nakamotoinstitute.org/shelling-out/) - Nick Szabo's anthropological money analysis (2002)
 
 ### Anonymity Networks
+_Last verified: 2026-10-14._
 - [Tor Second-Generation Onion Router](https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf) - Technical paper describing Tor architecture (2004)
 - [Measuring Freenet in the Wild](https://link.springer.com/chapter/10.1007/978-3-319-08506-7_14) - Empirical analysis of Freenet censorship-resistance (2014)
 - [On the Tight Security of the Double Ratchet](https://eprint.iacr.org/2024/1625) - Formal security proof for Signal's Double Ratchet protocol (CCS 2024)
@@ -130,8 +149,10 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 ---
 
 ## Books
+_Last verified: 2026-10-14._
 
 ### Agorist Philosophy
+_Last verified: 2026-10-14._
 - [New Libertarian Manifesto](https://web.archive.org/web/20191217015919/http://agorism.info/docs/NewLibertarianManifesto.pdf) - Samuel Edward Konkin III
 - [An Agorist Primer](https://www.amazon.com/Agorist-Primer-Samuel-Edward-Konkin/dp/0977764974) - SEK3's practical introduction to agorism (1986-2008)
 - [Counter-Economics: From the Back Alleys to the Stars](https://www.smashwords.com/profile/view/SEK3) - SEK3's incomplete magnum opus on agorism (2004)
@@ -139,26 +160,31 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [Alongside Night](https://en.wikipedia.org/wiki/Alongside_Night) - J. Neil Schulman's agorist novel (1989 Prometheus Hall of Fame) (1979)
 
 ### Cypherpunk & Crypto Anarchy
+_Last verified: 2026-10-14._
 |- [Cypherpunks: Freedom and the Future of the Internet](https://archive.org/details/cypherpunksfreed0000assa) - Julian Assange with Appelbaum, Müller-Maguhn and Zimmermann (2012)
 |- [The Official PGP User's Guide](https://www.goodreads.com/book/show/2152126.The_Official_PGP_User_s_Guide) - Phil Zimmermann (1995)
 |- [Crypto Anarchy, Cyberstates and Pirate Utopias](https://mitpress.mit.edu/) - Peter Ludlow's anthology including Timothy May's work (2001)
 
 ### Surveillance & Privacy
+_Last verified: 2026-10-14._
 |- [Your Face Belongs to Us](https://www.amazon.com/Your-Face-Belongs-Us-Surveillance/dp/0593535935) - Kashmir Hill's investigation into the rise of facial recognition surveillance (2023)
 |- [Means of Control](https://www.penguinrandomhouse.com/books/694790/means-of-control-by-byron-tau/) - Byron Tau on the hidden alliance between tech companies and government surveillance (2024)
 |- [Data Cartels](https://www.sup.org/books/title/?id=32780) - Sarah Lamdan on the companies that monopolize and sell our information (2023)
 
 ### Cryptocurrency & Economics
+_Last verified: 2026-10-14._
 - [Cryptoeconomics](https://voskuil.org/cryptoeconomics/cryptoeconomics.pdf) - Eric Voskuil's comprehensive cryptoeconomics text
 - [Cryptosovereignty](https://store.bitcoinmagazine.com/products/cryptosovereignty) - Eric Cason's work on crypto sovereignty
 - [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/) - Saifedean Ammous on Bitcoin from Austrian economics perspective (2018)
 - [The Praxeology of Privacy](https://pay.towardsliberty.com/apps/v5yU4xADsJJjxF3foYPDPFd1Snj/pos) - Max Hillebrand's work on privacy philosophy
 
 ### Vonu & Personal Freedom
+_Last verified: 2026-10-14._
 - [Vonu - The Search for Personal Freedom by Rayo](https://ad-store.sgp1.digitaloceanspaces.com/LUA/Documents/VONU%20-%20The%20Search%20for%20Personal%20Freedom%20by%20Rayo.pdf)
 - [Vonu: The Search for Personal Freedom, Part 2 - Letters from Rayo](https://ad-store.sgp1.digitaloceanspaces.com/VONU/2022/08/Vonu%202%20Paperback%20Interior%20Final.pdf)
 
 ### Strategy & Theory
+_Last verified: 2026-10-14._
 - [Second Realm - Book on Strategy](https://archive.org/details/second-realm-digital)
 - [Anarchy, State and the Internet](https://web.archive.org/web/2/https://www.researchgate.net/publication/228222872_Anarchy_State_and_the_Internet)
 - [The Network State](https://thenetworkstate.com/) - Balaji Srinivasan's vision for crypto-anarchist virtual nations (2022)
@@ -166,24 +192,30 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 ---
 
 ## Organizations & Institutions
+_Last verified: 2026-10-14._
 
 ### Digital Rights
+_Last verified: 2026-10-14._
 - [Electronic Frontier Foundation](https://www.eff.org/) - Digital rights organization co-founded by John Gilmore (1990-present)
 - [Free Haven Project](https://www.freehaven.net/) - Free haven project for anonymous publishing
 
 ### Anarchist & Libertarian Organizations
+_Last verified: 2026-10-14._
 - [Center for a Stateless Society](https://c4ss.org/) - Left-libertarian market anarchist resources
 - [Ludwig von Mises Institute](https://mises.org/) - Austrian School economics resources (1982-present)
 
 ---
 
 ## Websites, Blogs & Communities
+_Last verified: 2026-10-14._
 
 ### Comprehensive Resources
+_Last verified: 2026-10-14._
 - [agorism.dev](https://agorism.dev/) - Amir Taaki's website on agorism
 - [Activism.net](https://activism.net/) - Historical cypherpunk resources
 
 ### Blogs & Newsletters
+_Last verified: 2026-10-14._
 - [Free Man's Perspective](https://freemansperspective.com/) - Paul Rosenberg's newsletter on crypto anarchy
 - [Towards Liberty](https://web.archive.org/web/20200627112945/http://towardsliberty.com/) - Max Hillebrand's website
 - [Ross Ulbricht Essays](https://rossulbricht.medium.com/) - Essays from prison by Silk Road founder (2020-present)
@@ -194,26 +226,32 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [Agorist Nexus](https://agoristnexus.com/) - Community building for agorists
 
 ### Publications
+_Last verified: 2026-10-14._
 - [AXXI Journal](https://agorist.xyz/) - Journal bridging crypto and agorism (2021-present)
 
 ### Projects & Initiatives
+_Last verified: 2026-10-14._
 - [Derrick Broze Freedom Cells](https://freedomcells.org/) - Mutual aid network based on agorist principles
 
 ### Historical Resources
+_Last verified: 2026-10-14._
 - [The Untold Story of the Greatest Crypto Project Ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/)
   - [Links to blog posts](https://disobey.dev/posts/the-untold-story-of-the-greatest-crypto-project-ever/)
 
 ---
 
 ## Guides & Documentation
+_Last verified: 2026-10-14._
 
 ### Privacy Guides
+_Last verified: 2026-10-14._
 - [EFF Surveillance Self-Defense](https://ssd.eff.org/) - Privacy and security guides from EFF
 - [Privacy Tools](https://www.privacytools.io/) - Comprehensive privacy tools directory
 - [Privacy Guides](https://www.privacyguides.org/) - Privacy-focused software recommendations
 - [Prism Break](https://prism-break.org/) - Alternatives to proprietary software
 
 ### Technical Documentation
+_Last verified: 2026-10-14._
 - [Tor Documentation](https://tb-manual.torproject.org/) - Comprehensive Tor Browser manual
 - [I2P vs Tor Comparison](https://geti2p.net/en/comparison/tor) - Technical comparison of I2P and Tor
 - [Signal Protocol Documentation](https://signal.org/docs/) - Technical documentation for Signal Protocol
@@ -221,20 +259,25 @@ This archive preserves the primary sources — manifestos, mailing-list archives
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/) - Explanation of zero-knowledge proofs in Zcash
 
 ### Practical Guides
+_Last verified: 2026-10-14._
 - [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
 - [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
 
 ---
 
 ## Media & Documentaries
+_Last verified: 2026-10-14._
 
 ### Feature Documentaries
+_Last verified: 2026-10-14._
 - [The Six Billion Dollar Man](https://en.wikipedia.org/wiki/The_Six_Billion_Dollar_Man_(film)) - Eugene Jarecki's documentary on Julian Assange
 - [The Trust Fall: Julian Assange](https://thetrustfall.org/) - Documentary on the Assange case and press freedom implications
 
 ### Short Films & Talks
+_Last verified: 2026-10-14._
 - [Julian Assange and the dark secrets of war](https://www.youtube.com/watch?v=lRNq4JGi2eM) - DW Documentary on Assange and WikiLeaks (June 2024)
 
 ### Academic Proceedings
+_Last verified: 2026-10-14._
 - [IEEE S&P 2024](https://sp2024.ieee-security.org/accepted-papers.html) - Top-tier security & privacy conference proceedings
 - [PoPETs 2024](https://petsymposium.org/popets/2024/) - Privacy Enhancing Technologies Symposium proceedings
