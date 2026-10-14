@@ -4,7 +4,7 @@
 
 ## What is crypto anarchy?
 
-"Crypto anarchy" is the use of cryptography and decentralized networks to make state control of individuals impossible at the protocol level. Coined in [Timothy C. May's Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) (1988), it grew out of the cypherpunk movement: strong public-key cryptography, pseudonymous digital cash, and untraceable communication. Bitcoin, Tor, and modern zero-knowledge proofs are direct descendants.
+"Crypto anarchy" is the use of cryptography and decentralized networks to let individuals communicate and transact outside state control. Coined in [Timothy C. May's Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) (1988), it grew out of the cypherpunk movement: strong public-key cryptography, pseudonymous digital cash, and untraceable communication. Bitcoin is its best-known descendant.
 
 ## Where to start
 
