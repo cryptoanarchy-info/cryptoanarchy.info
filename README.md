@@ -45,7 +45,6 @@ Goal of this project is to preserve history and distribute important works and i
 
 ### Other Foundational Essays
 - [Why I Wrote PGP](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - Phil Zimmermann's explanation of PGP motivation (1991-1999)
-- [The Blacknet Manifesto](https://web.archive.org/web/20250405004819/https://www.activism.net/cypherpunk/blacknet.html) - Timothy C. May's prescient vision of anonymous digital markets (1994)
 
 ---
 
@@ -221,7 +220,6 @@ Goal of this project is to preserve history and distribute important works and i
 - [What are zk-SNARKs?](https://z.cash/technology/zksnarks/) - Explanation of zero-knowledge proofs in Zcash
 
 ### Practical Guides
-- [Crypto Agorism Guide](https://cryptoagorism.github.io/) - Practical guide to agorist markets
 - [Mises Bitcoin Topics](https://mises.org/topics/bitcoin) - Austrian economics perspective on Bitcoin
 
 ---
